@@ -1,3 +1,11 @@
 - url: https://www.leboncoin.fr/voitures/2223130988.htm
-  output: shot.png
+  output: leboncoin.png
+  height: 800
+
+- url: https://cinetimes.org/
+  output: cinetimes.png
+  height: 800
+ 
+- url: https://es.wallapop.com/coches-segunda-mano
+  output: wallapop.png
   height: 800
